@@ -1,4 +1,4 @@
-# 🥟 Página de Venda - Pastelaria Premium
+# 🥟 Página de Venda - Pastelaria demo
 
 Um protótipo de landing page moderno, responsiva e de alta conversão desenvolvido para a apresentação do cardápio e automação de pedidos de uma pastelaria gourmet.
 
